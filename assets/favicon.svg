@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Quiet Hour">
+  <rect width="64" height="64" rx="6" fill="#1F2A3A"/>
+  <path d="M10 20c7-3 14-3 21 1v26c-7-4-14-4-21-1z" fill="#F7F4EC"/>
+  <path d="M54 20c-7-3-14-3-21 1v26c7-4 14-4 21-1z" fill="#F7F4EC"/>
+  <rect x="31" y="20" width="2" height="27" fill="#B98A2E"/>
+</svg>
